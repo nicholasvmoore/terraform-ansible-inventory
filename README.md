@@ -1,6 +1,6 @@
 Terraform & Ansible Stack
 ===================
-This repository is supplemental to my [blog post](http:://www.moorenix.com/) outlining my method of integrating Terraform & Ansible.`
+This repository is supplemental to my [blog post](http://www.moorenix.com/2019/12/16/Terraform-Ansible/) outlining my method of integrating Terraform & Ansible.`
  
 # Dependencies
 | Package Name | URL |
