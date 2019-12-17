@@ -1,0 +1,9 @@
+---
+- name: Deployment playbook
+  hosts: all
+  become: true
+
+  tasks:
+    - name: Set Hostname
+      hostname:
+        name: '{{ ansible_fqdn }}'
