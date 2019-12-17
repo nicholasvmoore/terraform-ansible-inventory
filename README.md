@@ -1,13 +1,13 @@
 Terraform & Ansible Stack
 ===================
-This repository is supplemental to my [blog post](http:://www.moorenix.com/) outlining my method of integrating Terraform & Ansible.
+This repository is supplemental to my [blog post](http:://www.moorenix.com/) outlining my method of integrating Terraform & Ansible.`
  
 # Dependencies
 | Package Name | URL |
 | --- | --- |
 | Terraform | [Terraform](https://www.terraform.io/)
 | Terraform vSphere Provider | [Terraform Provider Documentation](https://www.terraform.io/docs/providers/vsphere/index.html) |
-| Terraform Inventory | [Github](https://github.com/adammck/terraform-inventory) |
+| Terraform Inventory | [Project Repo](https://github.com/adammck/terraform-inventory) |
 | Powershell Core | [Microsoft Install Docs](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7)
 
 ## Dependency Installation
